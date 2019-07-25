@@ -1,0 +1,23 @@
+{
+  "name": "immutable-lite",
+  "version": "1.0.0",
+  "description": "非常简单的，用于禁止用户（通常是低权限用户）修改对象或其属性的工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommyfok/immutable-lite.git"
+  },
+  "keywords": [
+    "immutable",
+    "javascript"
+  ],
+  "author": "tommyfok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tommyfok/immutable-lite/issues"
+  },
+  "homepage": "https://github.com/tommyfok/immutable-lite#readme"
+}
